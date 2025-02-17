@@ -4,11 +4,17 @@ An AI-powered content generator that helps users create blog posts, video script
 🚀 Features
 
 ✅ Generate AI-Powered Content (Blog Posts, Video Scripts, Captions)
+
 ✅ Dark Mode Support 🌙
+
 ✅ Voting System for Captions (Choose the best caption)
+
 ✅ AI-Based Tiebreaker (Ollama decides in case of a tie)
+
 ✅ Drag & Drop Scheduling (Schedule posts easily)
+
 ✅ Date Picker for Scheduled Posts 📅
+
 ✅ Fast & Local AI Processing (No API Costs)
 
 
